@@ -1,5 +1,5 @@
-import './circle.scss';
-import './animationValues.scss';
+import './components/circle.scss';
+import './components/animationValues.scss';
 
 export const circleImageRoler = (img: HTMLImageElement): HTMLElement => {
   const frame = document.createElement('div');
