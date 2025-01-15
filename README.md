@@ -13,3 +13,6 @@ document.body.appendChild(circleImage);
 
 And put your  desired image in the images folder then change the variable "const image = 'monkyMonk.jpg';
 " to your own image.jpg
+
+
+***YOU WILL MOST LIKELY NEED TO "cd to this folder before npm install & npm run dev".***
