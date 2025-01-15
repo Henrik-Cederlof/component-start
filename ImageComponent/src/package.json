@@ -1,0 +1,19 @@
+{
+  "name": "circle-image",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "keywords": ["circle-image", "animation", "scss"],
+  "author": "Henrik Cederlöf",
+  "license": "MIT"
+}
